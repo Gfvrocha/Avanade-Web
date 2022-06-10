@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NaJpZJqEk37YffH1AkDZo6gnYR9JoZV4R++hZsm3tmuTEsBQrDRg7zxfGTSXblp9mxD01FZTyPA34W4fmyhQmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gfvro\\OneDrive\\Área de Trabalho\\Personal\\Felipe\\Avanade_Bootcamp\\Avanade Web\\c#\\CalculatorProject\\CalculatorProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gfvro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
