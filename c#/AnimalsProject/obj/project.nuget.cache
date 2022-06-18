@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtajiZe1XBBz8wbsjwM+i47B+tTa+puCuCMnUm2FBWxx5z5YmjfgMv15pPeHI34Y8wCc6OIBpZqTh5WxMvyJLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gfvro\\OneDrive\\Área de Trabalho\\Personal\\Felipe\\Avanade_Bootcamp\\Avanade Web\\c#\\AnimalsProject\\AnimalsProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gfvro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

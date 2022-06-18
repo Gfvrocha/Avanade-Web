@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BASQS8FJwbPX5+2+TLf8IDhTVxf0ZIfv0VaBhOALpTnohM4J1J9ciXgPa63g6AGVNHunzgb0ZZi6HwllcCNs+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gfvro\\OneDrive\\Área de Trabalho\\Personal\\Felipe\\Avanade_Bootcamp\\Avanade Web\\c#\\VeiculosProject\\VeiculosProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gfvro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CalculatorProject
+﻿namespace CalculatorProject
 {
     class Program
     {

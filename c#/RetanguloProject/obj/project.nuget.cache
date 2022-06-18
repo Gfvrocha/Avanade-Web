@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lTW4L4XCKRQhGeCtSZP2YgCKLSDXPwX/4dsU26ZpTcncVnLQoXlSuNWAI0NKHgxhcuiVorS3osQQYjETB9o1ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gfvro\\OneDrive\\Área de Trabalho\\Personal\\Felipe\\Avanade_Bootcamp\\Avanade Web\\c#\\RetanguloProject\\RetanguloProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gfvro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
